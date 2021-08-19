@@ -1,0 +1,18 @@
+nav{
+    background-color:#ffffff;
+    margin: 1px;
+    display:block;
+    padding: 1px;;
+    color:grey;
+
+    border-radius: 1rem;
+}
+body{
+    background-color:#FBBF24;
+}
+button{
+    margin: auto;
+    display: block;
+    background-color:transparent;
+
+}
