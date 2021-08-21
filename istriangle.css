@@ -16,3 +16,17 @@ button{
     background-color:transparent;
 
 }
+label{
+    margin:auto;
+}
+input{
+    margin:auto;
+    display:inline-block;
+}
+form{
+    text-align:center;
+}
+#output{
+    text-align:center;
+    display:block;
+}
