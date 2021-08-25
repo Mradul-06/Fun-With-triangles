@@ -7,8 +7,13 @@ nav{
 
     border-radius: 1rem;
 }
+.nav-brand{
+    font-size:largest;
+    color:blue;
+}
 body{
     background-color:white;
+    
 }
 button{
     margin: auto;
@@ -29,4 +34,11 @@ form{
 #output{
     text-align:center;
     display:block;
+}
+.list-item-inline{
+    align-items:right;
+    display: inline;
+}
+.nav-pills{
+    text-align:right;
 }
