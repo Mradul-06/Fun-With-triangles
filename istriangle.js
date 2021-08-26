@@ -2,7 +2,7 @@ const angle1 = document.querySelector("#angle1")
 const angle2 = document.querySelector("#angle2")
 const angle3 = document.querySelector("#angle3")
 const submit = document.querySelector("#is-triangle")
-const output = document.querySelector("#output-div") 
+const output = document.querySelector(".output-div") 
 
 
 

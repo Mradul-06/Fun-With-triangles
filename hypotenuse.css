@@ -1,0 +1,55 @@
+nav{
+    background-color:#ffffff;
+    margin: 1px;
+    display:block;
+    padding: 1px;;
+    color:grey;
+
+    border-radius: 1rem;
+}
+.nav-brand{
+    font-size:largest;
+    color:blue;
+}
+body{
+    background-color:white;
+    
+}
+button{
+    margin: auto;
+    display: block;
+    background-color:transparent;
+
+}
+label{
+    margin:auto;
+}
+input{
+    margin:auto;
+    display:inline-block;
+}
+form{
+    text-align:center;
+}
+#output{
+    text-align:center;
+    display:block;
+}
+.list-item-inline{
+    align-items:right;
+    display: inline;
+    margin:3rem
+    padding:1rem; 
+    text-decoration: none;
+    border-style:1px solid;
+}
+.nav-pills{
+    text-align:right;
+    margin:2rem;
+}
+.link{
+    font-style: italic;
+    text-decoration:none;
+    margin:auto;
+    border-style:1px solid;
+}
